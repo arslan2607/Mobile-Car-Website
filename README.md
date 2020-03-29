@@ -16,7 +16,7 @@ In order to view properly do the following:
 - JSON
   
 ## Author
-Arslan Khayrullin - ak17677@rit.edu
+Arslan Khayrullin - ak1767@rit.edu
 
 
   
