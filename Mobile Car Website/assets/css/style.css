@@ -1,0 +1,48 @@
+/* Arslan Khayrullin */
+/* ISTE-252 */
+/* Project 2 */
+/* 03/01/2020 */
+
+/* General img tag */
+img{
+    border: 2.5px solid purple;
+    width: 86%;
+    margin-right: auto;
+    display: block;
+}
+
+/* Menu page background */
+#menuPage {
+    background-color: coral;
+    float: left;
+}
+
+ul{
+    border: solid black;
+    background-color: black;
+}
+
+li {
+    font-family: "Times New Roman", Times, serif;
+    list-style: none;
+    color: white;
+}
+
+/* Main Border */
+div.border {
+    border-style: outset;
+    border: 5.5px solid red;
+}
+
+/* Title of Text */
+h1.title {
+    color: black;
+    text-align: center;
+    margin: 0px auto;
+}
+
+/* Back Button */
+.button {
+    background-color: red;
+    color: black;
+}

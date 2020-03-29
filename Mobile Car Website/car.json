@@ -1,0 +1,112 @@
+[
+   {
+      "id":          0,
+      "brand":       "BMW",
+      "model":       "135i",
+      "body":        "coupe",
+      "horsepower":  300,
+      "cylinders":   6,
+      "weight":      "3373 lbs",
+      "description": "BMW 1 series was produced between the years of 2004-2013. It was offered with both the automatic and manual transmissions. ",
+      "pic":         "car0"
+   },
+   {
+      "id":          1,
+      "brand":       "INFINITI",
+      "model":       "Q50",
+      "body":        "sedan",
+      "horsepower":  328,
+      "cylinders":   6,
+      "weight":      "3685 lbs",
+      "description": "INFINITI Q50 was produced from the years of 2014-present. It was offered with only the automatic transmission. ",
+      "pic":         "car1_large"
+   },
+   {
+      "id":          2,
+      "brand":       "Nissan",
+      "model":       "370z",
+      "body":        "coupe",
+      "horsepower":  332,
+      "cylinders":   6,
+      "weight":      "3232 lbs",
+      "description": "Nissan 370z was produced between the years of 2009-present. It was offered with both the automatic and manual transmissions. ",
+      "pic":         "car2"
+   },
+   {
+      "id":          3,
+      "brand":       "Chevrolet",
+      "model":       "Camaro SS",
+      "body":        "coupe",
+      "horsepower":  400,
+      "cylinders":   8,
+      "weight":      "3351 lbs",
+      "description": "Chevrolet Camaro SS was produced between the years of 1967-present. It was offered with both the automatic and manual transmissions. ",
+      "pic":         "car3"
+   },
+   {
+      "id":          4,
+      "brand":       "Mazda",
+      "model":       "MX-5 Miata",
+      "body":        "coupe",
+      "horsepower":  181,
+      "cylinders":   4,
+      "weight":      "2337 lbs",
+      "description": "Mazda MX-5 Miata was produced between the years of 1989-present. It was offered with both the automatic and manual transmissions. ",
+      "pic":         "car4"
+   },
+   {
+      "id":          5,
+      "brand":       "Porsche",
+      "model":       "911",
+      "body":        "coupe",
+      "horsepower":  443,
+      "cylinders":   6,
+      "weight":      "3354 lbs",
+      "description": "Porsche 911 was produced between the years of 1963-present. It was offered with only the automatic transmission. ",
+      "pic":         "car5"
+   },
+   {
+      "id":          6,
+      "brand":       "Jaguar",
+      "model":       "F-Type SVR",
+      "body":        "coupe",
+      "horsepower":  567,
+      "cylinders":   8,
+      "weight":      "3360 lbs",
+      "description": "Jaguar F-Type SVR was produced between the years of 2014-present. It was offered with only the automatic transmission. ",
+      "pic":         "car6"
+   },
+   {
+      "id":          7,
+      "brand":       "Volkswagen",
+      "model":       "Golf GTI",
+      "body":        "hatchback/hatchback coupe",
+      "horsepower":  228,
+      "cylinders":   4,
+      "weight":      "3062 lbs",
+      "description": "Volkswagen Golf GTI was produced between the years of 1976-present. It was offered with both the automatic and manual transmissions. ",
+      "pic":         "car7"
+   },
+   {
+      "id":          8,
+      "brand":       "Lexus",
+      "model":       "RC F",
+      "body":        "coupe",
+      "horsepower":  472,
+      "cylinders":   8,
+      "weight":      "3902 lbs",
+      "description": "Lexus RC F was produced between the years of 2014-present. It was offered with only the automatic transmission. ",
+      "pic":         "car8"
+   },
+   {
+      "id":          9,
+      "brand":       "Mercedes",
+      "model":       "CLA 250",
+      "body":        "sedan",
+      "horsepower":  221,
+      "cylinders":   4,
+      "weight":      "3274 lbs",
+      "description": "Mercedes CLA 250 was produced between the years of 2013-present. It was offered with only the automatic transmission. ",
+      "pic":         "car9"
+   }
+]
